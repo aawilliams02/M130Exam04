@@ -3,7 +3,7 @@ package week15;
 
 public class M130_Fall2023_PerezCuarenta_Jesus {
 	public static void main(String[] args) {
-		System.out.println("x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-");
+		System.out.println("a-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-");
 		System.out.println("Problem 01");
 		System.out.println("x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-x-");
 		int[] sequenceInputs = {2, 4, 6};
